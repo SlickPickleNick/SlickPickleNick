@@ -2,7 +2,7 @@
 
 My name is SlickPickleNick, a.k.a. Nick, and I am a university student with a growing passion for coding. I have made some friends over the years who were SUPER nerds in the space, and have started to understand their absolute madness.
 
-I hope to learn more about the different coding languages, and devlop systems that can start to help other out. My current interest is developing overlays that can be used by streamers who are also fans of [Streamer.bot](https://streamer.bot/), and provide them with tools that level-up their streams.
+I hope to learn more about the different coding languages, and devlop systems that can start to help others. My current interest is developing overlays that can be used by streamers who are also fans of [Streamer.bot](https://streamer.bot/), and provide them with tools that level-up their streams.
 
 ## My Socials
 
