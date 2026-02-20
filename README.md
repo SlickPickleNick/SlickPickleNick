@@ -6,9 +6,9 @@ I hope to learn more about the different coding languages, and devlop systems th
 
 ## My Socials
 
-*> [Twitch](https://twitch.tv/slickpicklenick)
-*> [X](https://x.com/SlickPickleNick)
-*> [YouTube](https://www.youtube.com/@slickpicklenick)
+* [Twitch](https://twitch.tv/slickpicklenick)
+* [X](https://x.com/SlickPickleNick)
+* [YouTube](https://www.youtube.com/@slickpicklenick)
 
 You can also join my [Discord](https://discord.gg/c2pM23t5fT) if you want to chat about some ideas!
 <!--
