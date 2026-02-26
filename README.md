@@ -11,6 +11,19 @@ I hope to learn more about the different coding languages, and devlop systems th
 * [YouTube](https://www.youtube.com/@slickpicklenick)
 
 You can also join my [Discord](https://discord.gg/c2pM23t5fT) if you want to chat about some ideas!
+
+## Current Project Ideas
+### Actively Working On:
+* Breaking News Overlay
+
+### Future Developments
+* Apple CarPlay stylized "Now Playing" Overlay/Widget
+* Scoreboard (Streamer vs. Other): Stylized to be similar to sports broadcasting
+* Multi-Platform Chat Overlay: Twitch, YouTube, Kick, etc.
+* Multi-Platform Alerts
+* Now-Clipping overlay (Shows a Loading bar when a clip is being created)
+* Pomodoro Timer (For Stream or General Utility)
+
 <!--
 **SlickPickleNick/SlickPickleNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
