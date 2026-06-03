@@ -12,18 +12,21 @@ I hope to learn more about the different coding languages, and devlop systems th
 
 You can also join my [Discord](https://discord.gg/c2pM23t5fT) if you want to chat about some ideas!
 
-## Current Project Ideas
-### Actively Working On:
+## Current Project List
+
+### Completed / Good Enough (For Now)
+* Chat Controlled Mini Game for GeoGuessr
 * Breaking News Overlay
+
+### Actively Working On:
+* Multi-Platform Chat Overlay: Twitch, YouTube, Kick
+* Multi-Platform Alerts
 
 ### Future Developments/Ideas
 * Apple CarPlay stylized "Now Playing" Overlay/Widget
 * Scoreboard (Streamer vs. Other): Stylized to be similar to sports broadcasting
-* Multi-Platform Chat Overlay: Twitch, YouTube, Kick, etc.
-* Multi-Platform Alerts
 * Now-Clipping overlay (Shows a Loading bar when a clip is being created)
 * Pomodoro Timer (For Stream or General Utility)
-* Chat Controlled Mini Game
 
 <!--
 **SlickPickleNick/SlickPickleNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
